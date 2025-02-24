@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to manage a React Native project.  It typically arises when there's a mismatch between the version of Expo CLI installed globally and the version specified in your project's `package.json`.  This mismatch can lead to unexpected behavior, including build failures or inability to start the development server.
